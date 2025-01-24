@@ -1,5 +1,8 @@
 gradio
 langchain
-chromadb
 pypdf
 pandas
+python-multipart
+python-dotenv
+pydantic-settings==2.2.1
+tiktoken
